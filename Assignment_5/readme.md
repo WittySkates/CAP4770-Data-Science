@@ -1,0 +1,1 @@
+Running the submission should be as simple as opening the Jupyter notebook and running all the cells. The data file this assignment used must be in the same folder as the notebook for it to run. The whole notebook should run in under 6 minutes; this does not include the time to install packages as that varies significantly from run to run.
